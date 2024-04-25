@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/artjomivanov/artjomivanov/blob/main/assets/IMG_6795.jpeg)]
 
 # Hello, my name is Artjom.
 
