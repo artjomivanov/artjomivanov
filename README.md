@@ -14,6 +14,8 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 ### Languages and Tools
 [SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=appveyor)
 
+---
+
 ### 🤝 How can you contact me:
 
   <div id="badges">
@@ -39,6 +41,8 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats)`darcula` ![darcula][darcula] |
 
 ---
