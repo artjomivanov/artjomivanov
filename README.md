@@ -8,7 +8,7 @@
 
 I am a project manager with about 5 years at Deutsche Telekom looking to try my hand at testing. Below is the documentation of my first steps in this field.
 
-- 📫 How can you contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artjomivanov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artjomivanov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artjom.ivanov17@gmail.com)
+- 📫 How can you contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artjomivanov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artjom-ivanov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artjom.ivanov17@gmail.com)
 
 ---
 ### Languages and Tools
