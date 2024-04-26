@@ -24,7 +24,7 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
       <a href="mailto:artjom.ivanov17@gmail.com" target="_blank">
-      <img src="https://cdnlogo.com/logo/gmail-icon_39914.html" width="40" height="40" alt="Gmail" />
+      <img src="https://www.flaticon.com/free-icon/gmail_888853?term=gmail&page=1&position=3&origin=search&related_id=888853" width="40" height="40" alt="Gmail" />
   </div>
 
 ---
