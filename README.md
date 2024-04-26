@@ -14,7 +14,7 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 ### Languages and Tools
 [SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=appveyor)
 
-### 🤝 Social Networks:
+### 🤝 How can you contact me:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/artjom-ivanov/" target="_blank">
@@ -23,6 +23,8 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
     <a href="https://t.me/justandy_de" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+      <a href="mailto:artjom.ivanov17@gmail.com" target="_blank">
+      <img src="https://cdnlogo.com/logo/gmail-icon_39914.html" width="40" height="40" alt="Gmail" />
   </div>
 
 ---
