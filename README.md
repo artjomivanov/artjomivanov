@@ -43,6 +43,6 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats)`darcula` ![darcula][darcula] |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats`darcula` ![darcula][darcula])
 
 ---
