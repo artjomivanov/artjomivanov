@@ -1,36 +1,47 @@
 ![Header](https://github.com/artjomivanov/artjomivanov/blob/main/assets/IMG_6795.jpeg)
 
-## Hello, my name is Artjom.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Artjom+Ivanov!;" />
+</h1>
 
----
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-### 👨‍💻 About me:
+<h2 align="center">👨‍💻 About me 👨‍💻</h2>
 
+<div align="center">
 I am a project manager with about 5 years at Deutsche Telekom looking to try my hand at testing. Below is the documentation of my first steps in this field.
 
-- 📫 How can you contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artjomivanov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artjom-ivanov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artjom.ivanov17@gmail.com)
+ </div>
+<br/>
+ <div align="center">
+
+  <a href="mailto:artjom.ivanov17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
 ---
-### Languages and Tools
-[SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=appveyor)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,postman" /><br>
+</div>
+<br/>
 
----
 
-### 🤝 How can you contact me:
-
+<h2 align="center">🤝 Social Networks 🤝</h2>
+<br/>
   <div id="badges">
+  <div align="center">
     <a href="https://www.linkedin.com/in/artjom-ivanov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/justandy_de" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-      <a href="mailto:artjom.ivanov17@gmail.com" target="_blank">
-      <img src="https://www.flaticon.com/free-icon/gmail_888853?term=gmail&page=1&position=3&origin=search&related_id=888853" width="40" height="40" alt="Gmail" />
-  </div>
 
----
-### 📁 My Portfolio:
+
+<h2 align="center">📁 My Portfolio 📁</h2>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -43,6 +54,7 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats`darcula` ![darcula][darcula])
+### ✏️ Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
