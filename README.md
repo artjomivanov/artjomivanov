@@ -1,4 +1,4 @@
-[![Header](https://github.com/artjomivanov/artjomivanov/blob/main/assets/IMG_6795.jpeg)]
+![Header](https://github.com/artjomivanov/artjomivanov/blob/main/assets/IMG_6795.jpeg)
 
 # Hello, my name is Artjom.
 
@@ -11,7 +11,8 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 - 📫 How can you contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
 ---
-Languages and Tools
+### Languages and Tools
+[SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=appveyor)
 
 ### 🤝 Social Networks:
 
