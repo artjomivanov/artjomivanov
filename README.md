@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Artjom+Ivanov!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A beginning tester from Estonia 🇪🇪</h3>
 
 <h2 align="center">👨‍💻 About me 👨‍💻</h2>
 
@@ -52,9 +52,12 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
----
+<h2 align="center">✏️ Stats ✏️</h2>
 
-### ✏️ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artjomivanov)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=artjomivanov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
----
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=artjomivanov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
