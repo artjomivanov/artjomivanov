@@ -62,7 +62,7 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 |4. Software Testing from Scratch + Practice     | [open in Drive](https://drive.google.com/drive/u/0/folders/1-Dti2e1O7VC6VI9lSrls5EcZXuSPc6o2)      |
 
 
-<h2 align="center">📈 Stats 📈</h2>
+<h2 align="center">📈 Statistic 📈</h2>
 
 <br>
 <div align=center>
