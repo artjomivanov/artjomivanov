@@ -41,7 +41,9 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 
 <h2 align="center">📁 Testing Documentation 📁</h2>
 
-[Checklists](https://drive.google.com/drive/u/0/folders/10iEVBLzjwKIE1CaRP-z6XcZ2a8UDb0up)
+[Checklist](https://drive.google.com/drive/u/0/folders/10iEVBLzjwKIE1CaRP-z6XcZ2a8UDb0up)
+
+[Test case](https://drive.google.com/drive/u/0/folders/1KIMGH2fEpQE0E7Qs4-fz7cf1MLe-Fy_y)
 
 [Bug Reports](https://drive.google.com/drive/u/0/folders/1-6xmOQUOw63Cpd9WerbXu5Tq1kHDGQtg)
 
@@ -49,7 +51,8 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 
 [Postman Collections](https://drive.google.com/drive/u/0/folders/1-DZ7mboG-JUf-Ebe8vqGAt-vvl4LGdxY)
 
-[My CV](https://drive.google.com/drive/u/0/folders/15GT5kaOIiSJYoaxRDoNQDUYPHQZm0d07?q=sharedwith:public%20parent:15GT5kaOIiSJYoaxRDoNQDUYPHQZm0d07)
+[My CV](https://drive.google.com/drive/u/0/folders/1Vkyh1hqvC0OJn8Dhtl9h6i5NrgeqYiCk)
+
 <div>
   
 <h2 align="center">🧑‍🎓 Courses completed 🧑‍🎓</h2>
