@@ -59,10 +59,10 @@ I am a project manager with about 5 years at Deutsche Telekom looking to try my 
 
 | Name                                           |       certified         |
 |------------------------------------------------| :---------------------: |
-|1. ISTQB Foundation Level + 1000 quiz examples  | [open in Drive](https://drive.google.com/drive/u/0/folders/1-Dti2e1O7VC6VI9lSrls5EcZXuSPc6o2)      |
-|2. ISTQB Foundation Level Complete Training     | [open in Drive](https://drive.google.com/drive/u/0/folders/1-Dti2e1O7VC6VI9lSrls5EcZXuSPc6o2)      |
-|3. ISTQB Certified Tester Foundation Level      | [exam certificate](https://drive.google.com/drive/u/0/folders/1-Dti2e1O7VC6VI9lSrls5EcZXuSPc6o2)                                         |
-|4. Software Testing from Scratch + Practice     | [open in Drive](https://drive.google.com/drive/u/0/folders/1-Dti2e1O7VC6VI9lSrls5EcZXuSPc6o2)      |
+|1. ISTQB Foundation Level + 1000 quiz examples  | [open in Drive](https://drive.google.com/drive/u/0/folders/1gEC7fz9yq8wJ6g6Nlyu3FwHrtjbL4q_A)      |
+|2. ISTQB Foundation Level Complete Training     | [open in Drive](https://drive.google.com/drive/u/0/folders/1jbqa5OfPnZE04EqTfX7iyn6Nhyfb7Qjo)      |
+|3. ISTQB Certified Tester Foundation Level      | [exam certificate](https://drive.google.com/drive/u/0/folders/1WZBXW2nLu3HkAb8HyTe67zP8X7Mu-yQq)                                         |
+|4. Software Testing from Scratch + Practice     | [open in Drive](https://drive.google.com/drive/u/0/folders/1F4jkRacrfM4mlfMo_rOVkdCO2RJ44WsF)      |
 
 
 <h2 align="center">📈 Statistic 📈</h2>
